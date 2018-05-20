@@ -26,4 +26,4 @@
 #endif // DEBUG
 
 
-#define BUFF_SIZE 16384
+#define BUFF_SIZE 16384*4
