@@ -1,0 +1,110 @@
+﻿  AuthenRequest.c
+e:\我的程序\yzmon\yzmon\authenrequest.c(8): warning C4013: “ntohs”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\authenrequest.c(22): warning C4013: “ntohl”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\authenrequest.c(47): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(340): note: 参见“strncpy”的声明
+e:\我的程序\yzmon\yzmon\authenrequest.c(41): warning C4101: “i”: 未引用的局部变量
+  client.c
+e:\我的程序\yzmon\yzmon\client.h(9): fatal error C1083: 无法打开包括文件: “arpa/inet.h”: No such file or directory
+  encrpty.c
+  rconf.c
+e:\我的程序\yzmon\yzmon\rconf.c(14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(18): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(39): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(54): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(57): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(63): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(67): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(82): warning C4013: “atoi”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\rconf.c(110): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(119): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(122): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(123): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(124): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(125): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\rconf.c(108): warning C4101: “i”: 未引用的局部变量
+  requestMessage.c
+e:\我的程序\yzmon\yzmon\requestmessage.c(11): warning C4013: “htons”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\requestmessage.c(6): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(8): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(131): warning C4013: “htonl”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\requestmessage.c(28): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(183): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(239): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(250): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(252): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(274): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(285): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(287): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(415): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(422): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(526): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(566): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(577): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(579): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(603): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(651): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(681): warning C4101: “temp_32”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(825): warning C4013: “time”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\requestmessage.c(789): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(791): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(798): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(800): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(802): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(809): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(811): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(819): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(821): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(817): warning C4101: “virtualType”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(894): warning C4013: “ntohs”未定义；假设外部返回 int
+e:\我的程序\yzmon\yzmon\requestmessage.c(937): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(939): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(941): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(948): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(950): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\我的程序\yzmon\yzmon\requestmessage.c(971): warning C4101: “temp_8”: 未引用的局部变量
+e:\我的程序\yzmon\yzmon\requestmessage.c(973): warning C4101: “temp_32”: 未引用的局部变量
+  wlog.c
+e:\我的程序\yzmon\yzmon\wlog.c(13): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\我的程序\yzmon\yzmon\wlog.c(14): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+e:\我的程序\yzmon\yzmon\wlog.c(20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\我的程序\yzmon\yzmon\wlog.c(40): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  正在生成代码...
